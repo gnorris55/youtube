@@ -1,0 +1,1 @@
+this html page that will try to replicate youtube's video player page by using video, image, and audio (potentially) tags
